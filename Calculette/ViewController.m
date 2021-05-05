@@ -13,10 +13,47 @@
 
 @implementation ViewController
 
-- (void)viewDidLoad {
-    [super viewDidLoad];
-    // Do any additional setup after loading the view.
+-(void)tapZero{
+}
+-(void)tapDot{
+}
+-(void)tapEqual{
 }
 
+-(void)tapOne{
+}
+-(void)tapTwo{
+}
+-(void)tapThree{
+}
+-(void)tapPlus{
+}
+
+-(void)tapFour{
+}
+-(void)tapFive{
+}
+-(void)tapSix{
+}
+-(void)tapMinus{
+}
+
+-(void)tapSeven{
+}
+-(void)tapEight{
+}
+-(void)tapNine{
+}
+-(void)tapMultiply{
+}
+
+-(void)tapReset{
+}
+-(void)tapChangeSign{
+}
+-(void)tapPercentage{
+}
+-(void)tapDivide{
+}
 
 @end
